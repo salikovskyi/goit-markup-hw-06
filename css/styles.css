@@ -511,6 +511,9 @@ address {
   line-height: 1.14;
   letter-spacing: 0.03em;
   margin-bottom: 20px;
+  font-weight: 700;
+
+  color: #ffffff;
 }
 
 .footer-social-network {
@@ -787,7 +790,7 @@ address {
 .modal-form {
   display: flex;
   flex-direction: column;
-  margin: 40px;
+  padding: 40px;
 }
 
 .modal-title {
